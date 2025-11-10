@@ -6,7 +6,7 @@
 
 -NO AI CODE!
 
-#TODO add supported arm amd64 i386 etc to each name. note nmcli works on ARM architecture. refer too: https://www.kismetwireless.net/packages/
+#TODO add supported arm amd64 i386 etc to each name. note nmcli works on ARM architecture. refer too: https://www.kismetwireless.net/packages/ https://www.kismetwireless.net/docs/readme/installing/linux/
 
 # Important Notes For Use:
 
